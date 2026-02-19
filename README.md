@@ -1,4 +1,4 @@
-📌 IntelliSQL – Text to SQL using Gemini LLM
+📌 IntelliSQL: Intelligent SQL Querying with LLMs Using Gemini Pro
 
 IntelliSQL is an AI-powered web application that converts natural language questions into SQL queries and executes them on a MySQL database. It helps users interact with databases without writing SQL manually by using Google Gemini Large Language Model.
 
